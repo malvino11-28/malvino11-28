@@ -7,13 +7,13 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/malvino-garcia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-the-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malvino-garcia/)
  
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;

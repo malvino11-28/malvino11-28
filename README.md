@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About me
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Senac)  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNOESTE)  
 - 🧠 Forte base em lógica de programação (C)  
 - 🚀 Focado em desenvolvimento **Backend**  
 - 🌐 Estudando fullstack para ampliar oportunidades  

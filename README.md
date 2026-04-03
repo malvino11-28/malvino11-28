@@ -13,27 +13,27 @@
 <img width="40.55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=420078&text_color=ffffff&hide_border=true"/>
 </div>
 
---- 
+---
 
-### 👨‍💻 About me
+### About me
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNOESTE)  
-- 🧠 Forte base em lógica de programação (C)  
-- 🚀 Focado em desenvolvimento **Backend**  
-- 🌐 Estudando fullstack para ampliar oportunidades  
-- 📚 Sempre evoluindo com projetos práticos  
+- Estudante de Análise e Desenvolvimento de Sistemas (UNOESTE)  
+- Forte base em lógica de programação com C  
+- Foco em desenvolvimento Backend  
+- Estudando fullstack para ampliar oportunidades  
+- Evolução contínua com projetos práticos  
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
-- 🔐 Sistema com login e sessões  
-- 🌐 Desenvolvimento web com Node.js + Express  
-- 🗄️ Integração com banco de dados (MySQL)  
+- Sistema com autenticação (login e sessões)  
+- Desenvolvimento backend com Node.js e Express  
+- Integração com banco de dados MySQL  
 
 ---
 
-### 💡 Main Skills
+### Main Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-### 📚 Studying / Improving
+### Studying / Improving
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-420078?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-420078?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,21 +51,45 @@
 
 ---
 
-### 🧰 Tools
+### Featured Projects
 
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=white)
+**API de Gerenciamento de Produtos**  
+API REST com CRUD completo, validação de dados e integração com MySQL.  
+[Repositório](https://github.com/malvino11-28/api-gerenciamento-produto)
 
----
+<div align="center">
+  <span>&nbsp;</span>
+</div>
 
-### 📌 Featured Projects
+<div align="center">
+  <span>────────────────────────────── • ──────────────────────────────</span>
+</div>
 
-🚧 Em desenvolvimento...
+<div align="center">
+  <span>&nbsp;</span>
+</div>
 
-> Atualmente estou focado em criar projetos mais completos (com login, sessão e banco de dados).  
-> Em breve adicionarei projetos mais robustos aqui.
+**Portfólio Pessoal**  
+Aplicação em React com design responsivo, animações e formulário de contato funcional.  
+[Repositório](https://github.com/malvino11-28/portfolio-malvino) | [Deploy](https://portfolio-malvino.vercel.app)
+
+<img width="100%" src="https://github.com/user-attachments/assets/7dfc9cba-2ce0-4088-be7f-37349169377b" />
+
+<div align="center">
+  <span>&nbsp;</span>
+</div>
+
+<div align="center">
+  <span>────────────────────────────── • ──────────────────────────────</span>
+</div>
+
+<div align="center">
+  <span>&nbsp;</span>
+</div>
+
+**C Algoritmos e Estruturas**  
+Repositório focado em lógica de programação e estruturas de dados em C.  
+[Repositório](https://github.com/malvino11-28/c-algoritmos-e-estruturas)
 
 ---
 
@@ -74,6 +98,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-420078?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=420078&height=120&section=footer"/>

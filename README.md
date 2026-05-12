@@ -27,27 +27,32 @@
 
 ### Current Focus
 
-- Sistema com autenticação (login e sessões)  
-- Desenvolvimento backend com Node.js e Express  
-- Integração com banco de dados MySQL  
+- Construindo 3 projetos grandes com arquitetura escalável  
+- Desenvolvimento backend com Node.js e Laravel 
+- Integração com banco de dados MySQL e PostgreSQL 
 
 ---
 
 ### Main Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-00599C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
 ### Studying / Improving
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-420078?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-420078?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-420078?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-420078?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-420078?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-420078?style=for-the-badge&logo=express&logoColor=white)
+![NextJs](https://img.shields.io/badge/Next.js-420078?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-420078?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgre-420078?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 

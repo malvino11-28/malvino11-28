@@ -32,6 +32,24 @@
 - Integração com banco de dados MySQL e PostgreSQL 
 
 ---
+### Principais Projetos em Desenvolvimento
+
+**1. maiden-gate**  
+![Next.js](https://img.shields.io/badge/Next.js-420078?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-420078?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-420078?style=flat-square&logo=postgresql&logoColor=white)  
+![Progress](https://img.shields.io/badge/5%25-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+> Desenvolvimento de um aplicativo web complementar para gerenciar sessões de RPG. Criado para organizar a história, os personagens e os dados da campanha.
+
+**2. ---**  
+![Laravel](https://img.shields.io/badge/Laravel-420078?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-420078?style=flat-square&logo=mysql&logoColor=white) ![Express](https://img.shields.io/badge/Express-420078?style=flat-square&logo=express&logoColor=white)  
+![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)  
+> ---
+
+**3. ---**  
+![JavaScript](https://img.shields.io/badge/JavaScript-420078?style=flat-square&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-420078?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-420078?style=flat-square&logo=mysql&logoColor=white)  
+![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge) 
+> ---
+
+---
 
 ### Main Skills
 
@@ -93,7 +111,7 @@ Aplicação em React com design responsivo, animações e formulário de contato
 </div>
 
 **C Algoritmos e Estruturas**  
-Repositório focado em lógica de programação e estruturas de dados em C.  
+Repositório focado em lógica de programação e estruturas de dados em C/C++.  
 [Repositório](https://github.com/malvino11-28/c-algoritmos-e-estruturas)
 
 ---

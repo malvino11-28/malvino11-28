@@ -35,17 +35,24 @@
 ### Principais Projetos em Desenvolvimento
 
 **1. maiden-gate**  
-![Next.js](https://img.shields.io/badge/Next.js-420078?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-420078?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-420078?style=flat-square&logo=postgresql&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
+<br>
 ![Progress](https://img.shields.io/badge/5%25-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
 > Desenvolvimento de um aplicativo web complementar para gerenciar sessões de RPG. Criado para organizar a história, os personagens e os dados da campanha.
 
 **2. ---**  
-![Laravel](https://img.shields.io/badge/Laravel-420078?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-420078?style=flat-square&logo=mysql&logoColor=white) ![Express](https://img.shields.io/badge/Express-420078?style=flat-square&logo=express&logoColor=white)  
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)  
 ![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)  
 > ---
 
 **3. ---**  
-![JavaScript](https://img.shields.io/badge/JavaScript-420078?style=flat-square&logo=javascript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-420078?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-420078?style=flat-square&logo=mysql&logoColor=white)  
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)  
 ![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge) 
 > ---
 

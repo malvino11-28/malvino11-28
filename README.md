@@ -2,15 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=420078&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+MALVINO+GARCIA;Backend+Focused+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="width: 100%;">
 
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvino11-28&show_icons=true&bg_color=000000&title_color=420078&icon_color=420078&text_color=ffffff&hide_border=true"/>
+<img width="52%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvino11-28&show_icons=true&bg_color=000000&title_color=420078&icon_color=420078&text_color=ffffff&hide_border=true"/>
 <img width="20"/>
-<img width="40.55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=420078&text_color=ffffff&hide_border=true"/>
+<img width="42.55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=420078&text_color=ffffff&hide_border=true"/>
 </div>
 
 ---

@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=420078&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+MALVINO+GARCIA;Backend+Focused+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="width: 100%;">
 
@@ -45,36 +45,38 @@
 > Desenvolvimento de um aplicativo web complementar para gerenciar sessões de RPG. Criado para organizar a história, os personagens e os dados da campanha.
 
 **2. ---**  
+![Loading](https://img.shields.io/badge/Em_Breve-420078?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)  
 ![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)  
 > ---
 
 **3. ---**  
+![Loading](https://img.shields.io/badge/Em_Breve-420078?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)  
-![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge) 
+![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)  
 > ---
 
 ---
 
 ### Main Skills
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=css&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### Studying / Improving
 
-![JavaScript](https://img.shields.io/badge/JavaScript-420078?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-420078?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-420078?style=for-the-badge&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-420078?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-420078?style=for-the-badge&logo=node.js&logoColor=white)
-![NextJs](https://img.shields.io/badge/Next.js-420078?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-420078?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgre-420078?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ---

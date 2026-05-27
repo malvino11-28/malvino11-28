@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=420078&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+MALVINO+GARCIA;Backend+Focused+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="width: 100%;">
 

@@ -42,9 +42,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
 <br>
-![Progress](https://img.shields.io/badge/5%25-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Early_Development-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
 
-> Development of a complementary web application for managing RPG sessions. Built to organize campaign stories, characters, and session data.
+>> Web platform designed to support sessions of my original tabletop RPG universe, including campaign management, character organization, and story progression tools.
 
 ---
 
@@ -54,7 +54,7 @@
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
 
-![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Planning_Phase-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
 
 > ---
 
@@ -66,7 +66,7 @@
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
 
-![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Planning_Phase-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
 
 > ---
 

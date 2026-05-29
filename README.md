@@ -13,24 +13,25 @@
 
 ---
 
-### About me
+### About Me
 
-- Estudante de Análise e Desenvolvimento de Sistemas (UNOESTE)  
-- Forte base em lógica de programação com C  
-- Foco em desenvolvimento Backend  
-- Estudando fullstack para ampliar oportunidades  
-- Evolução contínua com projetos práticos  
+- Systems Analysis and Development student at UNOESTE  
+- Strong foundation in programming logic with C  
+- Backend-focused developer  
+- Studying fullstack development to expand opportunities  
+- Continuous growth through practical projects  
 
 ---
 
 ### Current Focus
 
-- Construindo 3 projetos grandes com arquitetura escalável  
-- Desenvolvimento backend com Node.js e Laravel 
-- Integração com banco de dados MySQL e PostgreSQL 
+- Building 3 large-scale projects with scalable architecture  
+- Backend development with Node.js and Laravel  
+- Database integration using MySQL and PostgreSQL  
 
 ---
-### Principais Projetos em Desenvolvimento
+
+### Main Projects in Development
 
 **1. maiden-gate**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -42,18 +43,31 @@
 ![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
 <br>
 ![Progress](https://img.shields.io/badge/5%25-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
-> Desenvolvimento de um aplicativo web complementar para gerenciar sessões de RPG. Criado para organizar a história, os personagens e os dados da campanha.
+
+> Development of a complementary web application for managing RPG sessions. Built to organize campaign stories, characters, and session data.
+
+---
 
 **2. ---**  
-![Loading](https://img.shields.io/badge/Em_Breve-420078?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)  
-![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)  
+![Loading](https://img.shields.io/badge/Coming_Soon-420078?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+
+![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+
 > ---
 
+---
+
 **3. ---**  
-![Loading](https://img.shields.io/badge/Em_Breve-420078?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white) ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)  
-![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)  
+![Loading](https://img.shields.io/badge/Coming_Soon-420078?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+
+![Progress](https://img.shields.io/badge/0%25-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+
 > ---
 
 ---
@@ -73,9 +87,9 @@
 
 ### Featured Projects
 
-**API de Gerenciamento de Produtos**  
-API REST com CRUD completo, validação de dados e integração com MySQL.  
-[Repositório](https://github.com/malvino11-28/api-gerenciamento-produto)
+**Product Management API**  
+REST API with full CRUD operations, data validation, and MySQL integration.  
+[Repository](https://github.com/malvino11-28/api-gerenciamento-produto)
 
 <div align="center">
   <span>&nbsp;</span>
@@ -89,9 +103,9 @@ API REST com CRUD completo, validação de dados e integração com MySQL.
   <span>&nbsp;</span>
 </div>
 
-**Portfólio Pessoal**  
-Aplicação em React com design responsivo, animações e formulário de contato funcional.  
-[Repositório](https://github.com/malvino11-28/portfolio-malvino) | [Deploy](https://portfolio-malvino.vercel.app)
+**Personal Portfolio**  
+React application with responsive design, animations, and a functional contact form.  
+[Repository](https://github.com/malvino11-28/portfolio-malvino) | [Deploy](https://portfolio-malvino.vercel.app)
 
 <img width="100%" src="https://github.com/user-attachments/assets/7dfc9cba-2ce0-4088-be7f-37349169377b" />
 
@@ -107,9 +121,9 @@ Aplicação em React com design responsivo, animações e formulário de contato
   <span>&nbsp;</span>
 </div>
 
-**C Algoritmos e Estruturas**  
-Repositório focado em lógica de programação e estruturas de dados em C/C++.  
-[Repositório](https://github.com/malvino11-28/c-algoritmos-e-estruturas)
+**C Algorithms and Data Structures**  
+Repository focused on programming logic and data structures using C/C++.  
+[Repository](https://github.com/malvino11-28/c-algoritmos-e-estruturas)
 
 ---
 

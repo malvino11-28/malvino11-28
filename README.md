@@ -6,9 +6,9 @@
 
 <div align="center" style="width: 100%;">
 
-<img width="52%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvino11-28&show_icons=true&bg_color=000000&title_color=420078&icon_color=420078&text_color=ffffff&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvino11-28&show_icons=true&bg_color=000000&title_color=420078&icon_color=420078&text_color=ffffff&hide_border=true"/>
 <img width="20"/>
-<img width="42.55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=420078&text_color=ffffff&hide_border=true&hide=html"/>
+<img width="46.15%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=420078&text_color=ffffff&hide_border=true&hide=html"/>
 </div>
 
 ---

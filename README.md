@@ -42,7 +42,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
 <br>
-![Progress](https://img.shields.io/badge/Early_Development-█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Early_Development-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
 
 >> Web platform designed to support sessions of my original tabletop RPG universe, including campaign management, character organization, and story progression tools.
 

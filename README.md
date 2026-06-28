@@ -47,7 +47,7 @@
 >> Web platform designed to support sessions of my original tabletop RPG universe, including campaign management, character organization, and story progression tools.
 
 ---
-
+<!--
 **2. ---**  
 ![Loading](https://img.shields.io/badge/Coming_Soon-420078?style=flat-square&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
@@ -71,7 +71,7 @@
 > ---
 
 ---
-
+-->
 ### Studying / Improving
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -129,7 +129,11 @@ Repository focused on programming logic and data structures using C/C++.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malvino-garcia/">
-    <img src="https://img.shields.io/badge/LinkedIn-420078?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://api.iconify.design/bi:linkedin.svg?color=%230A66C2&width=40&height=40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:malvinodev2@gmail.com">
+    <img src="https://api.iconify.design/bi:envelope-fill.svg?color=%23EA4335&width=40&height=40" alt="Gmail">
   </a>
 </p>
 

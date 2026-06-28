@@ -40,9 +40,10 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
 <br>
-![Progress](https://img.shields.io/badge/Frontend_Development-████████████████████░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Frontend_Development-████████████████████████░░░░░░░░░░░░░░-420078?style=for-the-badge)
 
 >> Web platform designed to support sessions of my original tabletop RPG universe, including campaign management, character organization, and story progression tools.
 

@@ -8,11 +8,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4AF37&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+MALVINO+GARCIA;Backend+Focused+Developer;Creator+of+Maiden-Gate;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-<br>
-
-<div align="center">
+<!-- <div align="center">
   <strong style="color:#D4AF37;">Backend-focused developer building practical systems, APIs and fullstack projects.</strong>
-</div>
+</div> -->
 
 <br>
 
@@ -49,7 +47,7 @@
 ## Main Artifact: Maiden-Gate
 
 <div align="center">
-  <img width="130" src="./assets/maiden-gate-logo.svg" />
+  <img width="430" src="./assets/maiden-gate-logo.svg" />
 </div>
 
 <br>

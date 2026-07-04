@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
 <br>
-![Progress](https://img.shields.io/badge/Frontend_Development-█████████████████████████████████░░░░░-420078?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Review_Phase-█████████████████████████████████░░░░░-420078?style=for-the-badge)
 
 >> Web platform designed to support sessions of my original tabletop RPG universe, including campaign management, character organization, and story progression tools.
 

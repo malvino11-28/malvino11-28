@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
 
 <div align="center">
-  <img width="170" src="./assets/maiden-gate-flower.png" />
+  <img width="170" src="./assets/logo.svg" />
 </div>
 
 <br>
@@ -49,7 +49,7 @@
 ## Main Artifact: Maiden-Gate
 
 <div align="center">
-  <img width="130" src="./assets/maiden-gate-flower.png" />
+  <img width="130" src="./assets/maiden-gate-logo.svg" />
 </div>
 
 <br>

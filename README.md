@@ -1,141 +1,152 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=420078&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=420078&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+MALVINO+GARCIA;Backend+Focused+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">
+  <img width="170" src="./assets/maiden-gate-flower.png" />
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=420078&line=d16aff&point=7500a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4AF37&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+KAUAN+MALVINO+GARCIA;Backend+Focused+Developer;Creator+of+Maiden-Gate;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
+<br>
+
+<div align="center">
+  <strong style="color:#D4AF37;">Backend-focused developer building practical systems, APIs and fullstack projects.</strong>
+</div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malvino11-28&bg_color=000000&color=D4AF37&line=B9972F&point=F2EFE3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="width: 100%;">
 
-<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvino11-28&show_icons=true&bg_color=000000&title_color=420078&icon_color=420078&text_color=ffffff&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=malvino11-28&show_icons=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=F2EFE3&hide_border=true"/>
 <img width="20"/>
-<img width="46.15%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=420078&text_color=ffffff&hide_border=true&hide=html"/>
+<img width="46.15%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malvino11-28&layout=compact&bg_color=000000&title_color=D4AF37&text_color=F2EFE3&hide_border=true&hide=html"/>
 </div>
 
 ---
 
-### About Me
+## About Me
 
-- Systems Analysis and Development student at UNOESTE  
-- Strong foundation in programming logic with C  
-- Backend-focused developer  
-- Studying fullstack development to expand opportunities  
-- Continuous growth through practical projects  
-
----
-
-### Current Focus
-
-- Building 3 large-scale projects with scalable architecture  
-- Backend development with Node.js and Laravel  
-- Database integration using MySQL and PostgreSQL  
+- Systems Analysis and Development student at UNOESTE
+- Backend-focused developer
+- Strong foundation in programming logic with C
+- Building fullstack projects with React, TypeScript, Laravel and databases
+- Interested in scalable systems, APIs, RPG tools and creative software projects
 
 ---
 
-### Main Projects in Development
+## Current Focus
 
-**1. maiden-gate**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Astah](https://img.shields.io/badge/Astah-21519F?style=flat-square&logo=diagramsdotnet&logoColor=white)
+- Developing **Maiden-Gate**, a fullstack web platform for my original tabletop RPG universe
+- Improving backend architecture with Laravel, Node.js and REST APIs
+- Working with PostgreSQL, MySQL, authentication, data modeling and API integration
+- Studying fullstack development to expand my professional opportunities
+
+---
+
+## Main Artifact: Maiden-Gate
+
+<div align="center">
+  <img width="130" src="./assets/maiden-gate-flower.png" />
+</div>
+
 <br>
-![Progress](https://img.shields.io/badge/Review_Phase-█████████████████████████████████░░░░░-420078?style=for-the-badge)
 
->> Web platform designed to support sessions of my original tabletop RPG universe, including campaign management, character organization, and story progression tools.
+**Maiden-Gate** is a web platform designed to support sessions of my original tabletop RPG universe, **Voice of Flower: Awakening of the Maiden**.
 
----
-<!--
-**2. ---**  
-![Loading](https://img.shields.io/badge/Coming_Soon-420078?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+The project includes campaign management, character organization, RPG data structures, story progression tools and a backend designed to connect the universe rules with a practical application.
 
-![Progress](https://img.shields.io/badge/Planning_Phase-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+<br>
 
-> ---
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=D4AF37)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=D4AF37)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=D4AF37)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=D4AF37)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=D4AF37)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=D4AF37)
+![Astah](https://img.shields.io/badge/Astah-000000?style=flat-square&logo=diagramsdotnet&logoColor=D4AF37)
 
----
+<br>
 
-**3. ---**  
-![Loading](https://img.shields.io/badge/Coming_Soon-420078?style=flat-square&logo=github&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
-![](https://img.shields.io/badge/-420078?style=flat-square&logo=&logoColor=white)
+![Progress](https://img.shields.io/badge/Review_Phase-█████████████████████████████████░░░░░-D4AF37?style=for-the-badge&labelColor=000000&color=D4AF37)
 
-![Progress](https://img.shields.io/badge/Planning_Phase-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░-420078?style=for-the-badge)
+<br>
 
-> ---
+### Project Highlights
 
----
--->
-### Studying / Improving
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Fullstack architecture with separated frontend and backend
+- Laravel API connected to a PostgreSQL database
+- React + TypeScript frontend focused on RPG session management
+- Data modeling for users, campaigns, characters, marks, inventory and bestiary
+- Original visual identity inspired by **Voice of Flower**
 
 ---
 
-### Featured Projects
+## Current Stack
 
-**Product Management API**  
-REST API with full CRUD operations, data validation, and MySQL integration.  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=D4AF37)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+
+---
+
+## Other Featured Projects
+
+### Product Management API
+
+REST API with full CRUD operations, data validation, and MySQL integration.
+
 [Repository](https://github.com/malvino11-28/api-gerenciamento-produto)
 
 <div align="center">
-  <span>&nbsp;</span>
+  <span>────────────────────────────── ✦ ──────────────────────────────</span>
 </div>
 
-<div align="center">
-  <span>────────────────────────────── • ──────────────────────────────</span>
-</div>
+### Personal Portfolio
 
-<div align="center">
-  <span>&nbsp;</span>
-</div>
+React application with responsive design, animations, and a functional contact form.
 
-**Personal Portfolio**  
-React application with responsive design, animations, and a functional contact form.  
 [Repository](https://github.com/malvino11-28/portfolio-malvino) | [Deploy](https://portfolio-malvino.vercel.app)
 
 <img width="100%" src="https://github.com/user-attachments/assets/7dfc9cba-2ce0-4088-be7f-37349169377b" />
 
 <div align="center">
-  <span>&nbsp;</span>
+  <span>────────────────────────────── ✦ ──────────────────────────────</span>
 </div>
 
-<div align="center">
-  <span>────────────────────────────── • ──────────────────────────────</span>
-</div>
+### C Algorithms and Data Structures
 
-<div align="center">
-  <span>&nbsp;</span>
-</div>
+Repository focused on programming logic and data structures using C/C++.
 
-**C Algorithms and Data Structures**  
-Repository focused on programming logic and data structures using C/C++.  
 [Repository](https://github.com/malvino11-28/c-algoritmos-e-estruturas)
 
 ---
 
+## Contact
+
 <p align="center">
   <a href="https://www.linkedin.com/in/malvino-garcia/">
-    <img src="https://api.iconify.design/bi:linkedin.svg?color=%230A66C2&width=40&height=40" alt="LinkedIn">
+    <img src="https://api.iconify.design/bi:linkedin.svg?color=%23D4AF37&width=40&height=40" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:malvinodev2@gmail.com">
-    <img src="https://api.iconify.design/bi:envelope-fill.svg?color=%23EA4335&width=40&height=40" alt="Gmail">
+    <img src="https://api.iconify.design/bi:envelope-fill.svg?color=%23D4AF37&width=40&height=40" alt="Gmail">
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=420078&height=120&section=footer"/>
+<br>
+
+<div align="center">
+  <strong>Maiden-Gate is my main fullstack project and the technical gateway to the Voice of Flower universe.</strong>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer"/>

@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header"/>
 
 <div align="center">
-  <img width="170" src="./assets/logo.svg" />
+  <img width="180" src="./assets/logo.svg" />
 </div>
 
 <br>
@@ -47,7 +47,7 @@
 ## Main Artifact: Maiden-Gate
 
 <div align="center">
-  <img width="430" src="./assets/maiden-gate-logo.svg" />
+  <img width="330" src="./assets/maiden-gate-logo.svg" />
 </div>
 
 <br>
@@ -83,7 +83,7 @@ The project includes campaign management, character organization, RPG data struc
 
 ---
 
-## Current Stack
+## Current Stack Studying
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37)
@@ -91,8 +91,6 @@ The project includes campaign management, character organization, RPG data struc
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
 
 ---
@@ -140,11 +138,5 @@ Repository focused on programming logic and data structures using C/C++.
     <img src="https://api.iconify.design/bi:envelope-fill.svg?color=%23D4AF37&width=40&height=40" alt="Gmail">
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <strong>Maiden-Gate is my main fullstack project and the technical gateway to the Voice of Flower universe.</strong>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=footer"/>

@@ -69,7 +69,7 @@ The project includes campaign management, character organization, RPG data struc
 
 <br>
 
-![Progress](https://img.shields.io/badge/Review_Phase-████████████████████████████████████░░-D4AF37?style=for-the-badge&labelColor=000000&color=D4AF37)
+![Progress](https://img.shields.io/badge/Final_Polishing-█████████████████████████████████████░-D4AF37?style=for-the-badge&labelColor=000000&color=D4AF37)
 
 <br>
 

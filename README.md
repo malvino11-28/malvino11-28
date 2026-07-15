@@ -65,7 +65,7 @@ The application includes authentication, role-based dashboards for Game Masters 
 
 <p align="center">
   <img src="https://img.shields.io/badge/MVP-Functional-D4AF37?style=for-the-badge&labelColor=000000" alt="MVP functional" />
-  <img src="https://img.shields.io/badge/Status-Final_Polishing-D4AF37?style=for-the-badge&labelColor=000000" alt="Final polishing" />
+  <img src="https://img.shields.io/badge/Status-Deploy_Phase-D4AF37?style=for-the-badge&labelColor=000000" alt="Final polishing" />
 </p>
 
 <br>

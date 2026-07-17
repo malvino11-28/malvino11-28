@@ -50,7 +50,9 @@
 
 **Maiden-Gate** is a fullstack web platform designed to support sessions of my original tabletop RPG universe, **Voice of Flower: Awakening of the Maiden**.
 
-The application includes authentication, role-based dashboards for Game Masters and Players, campaign management, character creation, inventory control, shared dice rolls, session scheduling, image uploads and RPG data structures connected to a Laravel API and PostgreSQL database.
+The application includes authentication, role-based dashboards for Game Masters and Players, campaign management, character creation and editing, inventory control, shared dice rolls, session scheduling, campaign notes, current location tracking, image uploads, premade campaign content, custom RPG data structures and API-driven persistence through a Laravel backend connected to a PostgreSQL database.
+
+The project is currently deployed with **Vercel** for the React frontend, **Render** for the Laravel API and **Supabase PostgreSQL** as the production database.
 
 <br>
 
@@ -58,14 +60,14 @@ The application includes authentication, role-based dashboards for Game Masters 
   <a href="https://github.com/malvino11-28/maiden-gate">
     <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github&logoColor=D4AF37" alt="Maiden-Gate repository" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Deploy-Coming_Soon-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Deploy coming soon" />
+  <a href="https://maiden-gate-six.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Maiden-Gate live demo" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MVP-Functional-D4AF37?style=for-the-badge&labelColor=000000" alt="MVP functional" />
-  <img src="https://img.shields.io/badge/Status-Deploy_Phase-D4AF37?style=for-the-badge&labelColor=000000" alt="Final polishing" />
+  <img src="https://img.shields.io/badge/MVP-Finished-D4AF37?style=for-the-badge&labelColor=000000" alt="MVP finished" />
+  <img src="https://img.shields.io/badge/Status-Deployed-D4AF37?style=for-the-badge&labelColor=000000" alt="Project deployed" />
 </p>
 
 <br>
@@ -78,8 +80,11 @@ The application includes authentication, role-based dashboards for Game Masters 
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=D4AF37)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=D4AF37)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=D4AF37)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=D4AF37)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=D4AF37)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=D4AF37)
-![Astah](https://img.shields.io/badge/Astah-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=D4AF37)
 
 </div>
 
@@ -88,13 +93,16 @@ The application includes authentication, role-based dashboards for Game Masters 
 ### Project Highlights
 
 - Fullstack architecture with separated frontend and backend
-- Laravel API connected to a PostgreSQL database
 - React + TypeScript frontend focused on RPG session management
+- Laravel REST API connected to a Supabase PostgreSQL production database
+- Frontend deployed on Vercel and backend deployed on Render using Docker
 - Authentication with role-based access for Game Masters and Players
-- Data modeling for users, campaigns, characters, marks, skills, inventory, NPCs and bestiary
+- Data modeling for users, campaigns, characters, marks, skills, inventory, NPCs, monsters, locations, lore events and campaign collections
+- Campaign management with notes, current location tracking, session scheduling and premade campaign content
 - Shared dice roll chat between Game Masters and Players
-- Functional character creation, campaign management and inventory system
-- Original visual identity inspired by **Voice of Flower**
+- Functional character creation, editing, progression and inventory system
+- Image upload support for campaigns, characters and RPG elements
+- Original visual identity inspired by **Voice of Flower: Awakening of the Maiden**
 
 ---
 
